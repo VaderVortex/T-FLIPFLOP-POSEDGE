@@ -1,14 +1,14 @@
 # T-FLIPFLOP-POSEDGE
 
-**AIM:**
+## AIM:
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+## SOFTWARE REQUIRED:
 
 Quartus prime
 
-**THEORY**
+## THEORY:
 
 **T Flip-Flop**
 
